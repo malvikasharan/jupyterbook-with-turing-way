@@ -19,6 +19,8 @@ Jupyter Book is an open source project for building publication-ready online boo
 
 **Session detail:**
 
+All the notebooks are available in this repository: https://github.com/malvikasharan/jupyterbook-with-turing-way/tree/master/notebooks.
+
 The topics and activities to be covered in this workshop are the following:
 - We will start by introducing *The Turing Way* and Jupyter Book.
 - The session leads will present *The Turing Way* as a community-developed book project on research reproducibility, project design, communication, collaboration and ethics.
